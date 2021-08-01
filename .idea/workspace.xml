@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d16443d3-08a0-4d13-b986-8cfab2502fe2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vttJXGwBbxIusavll1IjVKRgXT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.FourSum">
+    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo02.FourSum" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo02.LetterCombinations" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo01.LongestCommonPrefix" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo01.ThreeSum" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo01.ThreeSumClosest" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FourSum" />
+        <item itemvalue="Application.LetterCombinations" />
+        <item itemvalue="Application.ThreeSumClosest" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16443d3-08a0-4d13-b986-8cfab2502fe2" name="Default Changelist" comment="" />
+      <created>1627393142992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627393142992</updated>
+      <workItem from="1627393145452" duration="36288000" />
+    </task>
+    <task id="LOCAL-00001" summary="力扣刷题">
+      <created>1627830402530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627830402530</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore">
+      <created>1627830630404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627830630404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="力扣刷题" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1627830629730">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1627830629730" />
+    <state x="555" y="156" key="FileChooserDialogImpl" timestamp="1627831158397">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="156" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1627831158397" />
+    <state x="596" y="316" key="Github.CreateGistDialog" timestamp="1627830320317">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="596" y="316" key="Github.CreateGistDialog/0.0.1549.831@0.0.1549.831" timestamp="1627830320317" />
+    <state width="1506" height="306" key="GridCell.Tab.0.bottom" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="306" key="GridCell.Tab.0.center" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="306" key="GridCell.Tab.0.left" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="306" key="GridCell.Tab.0.right" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="306" key="GridCell.Tab.1.bottom" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="306" key="GridCell.Tab.1.center" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="306" key="GridCell.Tab.1.left" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="306" key="GridCell.Tab.1.right" timestamp="1627831190691">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="306" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state x="355" y="158" key="IDE.errors.dialog" timestamp="1627831137074">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="355" y="158" key="IDE.errors.dialog/0.0.1549.831@0.0.1549.831" timestamp="1627831137074" />
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2" timestamp="1627830632120">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1627830632120" />
+    <state x="281" y="151" width="987" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1627452085316">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="281" y="151" width="987" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1549.831@0.0.1549.831" timestamp="1627452085316" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1627830339947">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1627830339947" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/LengthOfLongestSubstring.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/LongestPalindrome.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/Convert.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/MyAtoi.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/MyAtoi.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/MyAtoi.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/IntToRoman.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/RomanToInt.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/RomanToInt.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/LongestCommonPrefix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/ThreeSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/ThreeSumClosest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo01/ThreeSumClosest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/LetterCombinations.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/FourSum.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/FourSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="romans" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
