@@ -20,13 +20,63 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98a6b132-bd65-46ef-a244-6dfde3501a84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Demo02/GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo02/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo02/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo02/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo02/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo02/RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo02/SolveNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo02/SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/IsValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/SearchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/SearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo03/StrStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/CanJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/PermuteUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo04/Trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/GenerateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/MinPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/RotateRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/SearchMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/SetZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo05/UniquePathsWithObstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/Combine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/DeleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/Exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/Partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo06/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Demo02/FourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Demo02/FourSum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +93,15 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vttJXGwBbxIusavll1IjVKRgXT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,13 +112,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.FourSum">
-    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo02.FourSum" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Demo06" />
+      <recent name="Demo05" />
+      <recent name="Demo03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Partition">
+    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.DeleteDuplicates" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo02.*" />
+          <option name="PATTERN" value="Demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo02.LetterCombinations" />
+    <configuration name="Exist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.Exist" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo02.*" />
+          <option name="PATTERN" value="Demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01.LongestCommonPrefix" />
+    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.Partition" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo01.*" />
+          <option name="PATTERN" value="Demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01.ThreeSum" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.RemoveDuplicates" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo01.*" />
+          <option name="PATTERN" value="Demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01.ThreeSumClosest" />
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.Search" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo01.*" />
+          <option name="PATTERN" value="Demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,36 +185,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FourSum" />
-        <item itemvalue="Application.LetterCombinations" />
-        <item itemvalue="Application.ThreeSumClosest" />
-        <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.Partition" />
+        <item itemvalue="Application.DeleteDuplicates" />
+        <item itemvalue="Application.Search" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.Exist" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d16443d3-08a0-4d13-b986-8cfab2502fe2" name="Default Changelist" comment="" />
+      <changelist id="98a6b132-bd65-46ef-a244-6dfde3501a84" name="Default Changelist" comment="" />
       <created>1627393142992</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627393142992</updated>
       <workItem from="1627393145452" duration="36288000" />
+      <workItem from="1627831866000" duration="28755000" />
+      <workItem from="1628930641342" duration="64042000" />
     </task>
     <task id="LOCAL-00001" summary="力扣刷题">
       <created>1627830402530</created>
@@ -171,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627830630404</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="设置Java">
+      <created>1627831910895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627831910895</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +258,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -204,9 +274,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="力扣刷题" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="设置Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置Java" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="534" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1629525612421">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="534" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1629525612421" />
     <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1627830629730">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -219,54 +294,54 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="596" y="316" key="Github.CreateGistDialog/0.0.1549.831@0.0.1549.831" timestamp="1627830320317" />
-    <state width="1506" height="306" key="GridCell.Tab.0.bottom" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.0.bottom" timestamp="1630048554236">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
-    <state width="1506" height="306" key="GridCell.Tab.0.center" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1630048554236" />
+    <state width="1506" height="261" key="GridCell.Tab.0.center" timestamp="1630048554236">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
-    <state width="1506" height="306" key="GridCell.Tab.0.left" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1630048554236" />
+    <state width="1506" height="261" key="GridCell.Tab.0.left" timestamp="1630048554236">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
-    <state width="1506" height="306" key="GridCell.Tab.0.right" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1630048554236" />
+    <state width="1506" height="261" key="GridCell.Tab.0.right" timestamp="1630048554236">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
-    <state width="1506" height="306" key="GridCell.Tab.1.bottom" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1630048554236" />
+    <state width="1506" height="261" key="GridCell.Tab.1.bottom" timestamp="1630048554410">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
-    <state width="1506" height="306" key="GridCell.Tab.1.center" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1630048554410" />
+    <state width="1506" height="261" key="GridCell.Tab.1.center" timestamp="1630048554410">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
-    <state width="1506" height="306" key="GridCell.Tab.1.left" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1630048554410" />
+    <state width="1506" height="261" key="GridCell.Tab.1.left" timestamp="1630048554410">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
-    <state width="1506" height="306" key="GridCell.Tab.1.right" timestamp="1627831190691">
+    <state width="1506" height="261" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1630048554410" />
+    <state width="1506" height="261" key="GridCell.Tab.1.right" timestamp="1630048554410">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="306" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1627831190691" />
+    <state width="1506" height="261" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1630048554410" />
     <state x="355" y="158" key="IDE.errors.dialog" timestamp="1627831137074">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="355" y="158" key="IDE.errors.dialog/0.0.1549.831@0.0.1549.831" timestamp="1627831137074" />
-    <state x="367" y="148" key="Vcs.Push.Dialog.v2" timestamp="1627831815383">
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2" timestamp="1630049147152">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="367" y="148" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1627831815383" />
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1630049147152" />
     <state x="281" y="151" width="987" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1627452085316">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="281" y="151" width="987" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1549.831@0.0.1549.831" timestamp="1627452085316" />
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1627830339947">
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1629515390573">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1627830339947" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1629515390573" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -351,6 +426,241 @@
           <line>28</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/SolveNQueens.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/RemoveNthFromEnd.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/IsValid.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/MergeTwoLists.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/GenerateParenthesis.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/SwapPairs.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo02/SwapPairs.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/StrStr.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/Divide.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/NextPermutation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/NextPermutation.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/SearchRange.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/Search.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/SearchInsert.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/IsValidSudoku.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/CountAndSay.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo03/CombinationSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/FirstMissingPositive.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/Trap.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/Multiply.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/Multiply.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/Jump.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/Permute.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/PermuteUnique.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/Rotate.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo04/GroupAnagrams.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/SpiralOrder.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/Merge.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/Insert.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/GenerateMatrix.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/RotateRight.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/UniquePathsWithObstacles.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/MinPathSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/ClimbStairs.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/SetZeroes.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/SearchMatrix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo05/SearchMatrix.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/SortColors.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/Combine.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/Subsets.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/RemoveDuplicates.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/RemoveDuplicates.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/Search.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/DeleteDuplicates.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/DeleteDuplicates.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/Partition.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo06/Partition.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="4" />
@@ -362,5 +672,16 @@
         <watch expression="romans" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$NextPermutation.ic" NAME="NextPermutation Coverage Results" MODIFIED="1628431702946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Demo03.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Test$Multiply.ic" NAME="Multiply Coverage Results" MODIFIED="1629092215777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Demo04.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Test$Divide.ic" NAME="Divide Coverage Results" MODIFIED="1628391347897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Demo03.*</FILTER>
+    </SUITE>
   </component>
 </project>
